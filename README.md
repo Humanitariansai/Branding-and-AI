@@ -161,7 +161,7 @@ This textbook is your roadmap. The work you do here will open doors. Every chapt
  
 **Remember**: Done is better than perfect. Ship it, then make it better.
  
-Now let's get started. 👉 [Chapter 1: Foundation Setup](chapters/01-foundation-setup.md)
+Now let's get started.
  
 ---
  
@@ -177,3 +177,10 @@ This is a living textbook. If you find errors, have suggestions, or want to cont
 ---
  
 *Last Updated: December 2025*
+
+---
+
+<div style="display: flex; justify-content: space-between;">
+  <a href="#"></a>
+  <a href="./Module 1/README.md">Module 1: Foundational Setup →</a>
+</div>
