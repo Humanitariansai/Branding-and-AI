@@ -118,10 +118,10 @@ A professional Product Requirements Document on Figma that includes:
 
 You'll know you've succeeded when:
 
-✅ Someone could read your PRD and build your exact project
-✅ Your gap analysis connects directly to your target job
-✅ Your architecture is specific enough to start implementing
-✅ Your scope is realistic for the implementation phase
+✅ Someone could read your PRD and build your exact project  
+✅ Your gap analysis connects directly to your target job  
+✅ Your architecture is specific enough to start implementing  
+✅ Your scope is realistic for the implementation phase  
 ✅ Your PRD looks professional enough to show in a job interview
 
 ![Completion Image](assets/completion.png)
